@@ -1,0 +1,6 @@
+id=force_vulkan_gaming
+name=Force Vulkan Gaming Engine (ANGLE & SkiaVK)
+version=v1.0
+versionCode=100
+author=Antigravity
+description=Memaksa game OpenGL (seperti PUBG Mobile & MLBB) diterjemahkan langsung ke backend VULKAN via Google ANGLE engine + Freedreno Turnip driver.

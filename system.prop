@@ -1,0 +1,8 @@
+# Force Skia Vulkan Rendering Engine
+debug.hwui.renderer=skiavk
+debug.renderengine.backend=vulkan
+ro.gfx.angle.supported=true
+debug.angle.backend=2
+
+# SurfaceFlinger Vulkan Pipe
+renderthread.skia.reduceopstasksplitting=true
